@@ -1,0 +1,2360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <package id="1" language="java" name="midiInDump" project="Launchpad S+" file="/Launchpad S+/src/midiInDump" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1870" y="881"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="gui" project="Launchpad S+" file="/Launchpad S+/src/gui" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="3336" y="881"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="gui.ReactiveDemoGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/ReactiveDemoGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="174" x="4300" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="tech_demo.TechDemo" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/TechDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="215" x="4036" y="7097"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="gui.LightsOutGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/LightsOutGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="981" width="219" x="1529" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="gui.SimonGUI" project="Launchpad S+" file="/Launchpad S+/src/gui/SimonGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="747" width="219" x="2205" y="1182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="gui.AnimationGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/AnimationGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="240" x="3695" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="8" language="java" name="piano.Piano.CONTROLS" project="Launchpad S+" 
+    file="/Launchpad S+/src/piano/Piano.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="171" x="5082" y="12089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="9" language="java" name="games.LightsOut" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/LightsOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="180" x="1429" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="launchpad_s_plus.PlaySound" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/PlaySound.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="168" x="4572" y="12089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="tech_demo.Animation" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/Animation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="801" width="222" x="3183" y="8311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="games.Checkers2" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/Checkers2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1395" width="274" x="3153" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="games.LightsOut.LightCell" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/LightsOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="99" x="1825" y="7097"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="gui.GameOfLifeGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/GameOfLifeGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="167" x="2173" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="launchpad_s_plus.DisplayBlink" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/DisplayBlink.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="265" x="3399" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="games.Simon" project="Launchpad S+" file="/Launchpad S+/src/games/Simon.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="180" x="3114" y="1969"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="launchpad_s_plus.DisplayPad" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/DisplayPad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="729" width="270" x="2447" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="launchpad_s_plus.Input" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Input.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="819" width="205" x="3767" y="9152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="games.ReactionGame" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/ReactionGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1035" width="180" x="2870" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="tech_demo.Metronome" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/Metronome.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="216" x="4335" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="gui.Main" project="Launchpad S+" file="/Launchpad S+/src/gui/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1809" width="253" x="2974" y="2792"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="tech_demo.ReactiveDemo" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/ReactiveDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="180" x="4245" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="games.Game" project="Launchpad S+" file="/Launchpad S+/src/games/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="206" x="3378" y="1182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="games.GameOfLife" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/GameOfLife.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1035" width="198" x="2165" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="midiInDump.MidiInDump" project="Launchpad S+" 
+    file="/Launchpad S+/src/midiInDump/MidiInDump.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="187" x="3780" y="7776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="launchpad_s_plus.Display" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Display.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="259" x="3058" y="12089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="gui.Error" project="Launchpad S+" file="/Launchpad S+/src/gui/Error.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="154" x="3014" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="tech_demo.Line" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/Line.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="203" x="3009" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="piano.Piano" project="Launchpad S+" file="/Launchpad S+/src/piano/Piano.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="999" width="242" x="4717" y="10011"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="piano.PianoKey" project="Launchpad S+" 
+    file="/Launchpad S+/src/piano/PianoKey.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="195" x="4738" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="launchpad_s_plus.Padmap" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Padmap.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="158" x="2879" y="14630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="gui.CheckersGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/CheckersGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="155" x="2777" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="launchpad_s_plus.testGame" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/testGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="114" x="3571" y="10011"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="launchpad_s_plus.SetMidiMessage" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/SetMidiMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="213" x="4040" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="tech_demo.ScrollingText" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/ScrollingText.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="180" x="4070" y="7776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="games.Checkers" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/Checkers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1233" width="301" x="2508" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="launchpad_s_plus.ReceiveMidiMessage" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/ReceiveMidiMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="201" x="3975" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="launchpad_s_plus.SetupProcess" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/SetupProcess.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="229" x="3592" y="8311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="launchpad_s_plus.Launchpad" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Launchpad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="160" x="3058" y="14823"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="gui.PianoGUI" project="Launchpad S+" file="/Launchpad S+/src/gui/PianoGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="999" width="217" x="4994" y="11050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="midiInDump.DumpReceiver" project="Launchpad S+" 
+    file="/Launchpad S+/src/midiInDump/DumpReceiver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="242" x="3861" y="8311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="database.Database" project="Launchpad S+" 
+    file="/Launchpad S+/src/database/Database.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="210" x="2027" y="7097"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="gui.SnakeGUI" project="Launchpad S+" file="/Launchpad S+/src/gui/SnakeGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="219" x="1830" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="launchpad_s_plus.testLaunchpadOutput" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/testLaunchpadOutput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="147" x="3237" y="7776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="45" language="java" name="launchpad_s_plus" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="128" x="4703" y="1969"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="46" language="java" name="games" project="Launchpad S+" file="/Launchpad S+/src/games" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="2058" y="1092"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="47" language="java" name="database" project="Launchpad S+" file="/Launchpad S+/src/database" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="4703" y="1182"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="48" language="java" name="games.Snake" project="Launchpad S+" file="/Launchpad S+/src/games/Snake.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1053" width="180" x="1670" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="gui.ReactionGameGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/ReactionGameGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="189" x="2548" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="50" language="java" name="piano" project="Launchpad S+" file="/Launchpad S+/src/piano" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="4806" y="4641"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="51" language="java" name="tech_demo.IdleAnimations" project="Launchpad S+" 
+    file="/Launchpad S+/src/tech_demo/IdleAnimations.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="180" x="3017" y="7776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="games.Checkers2.CheckerCell" project="Launchpad S+" 
+    file="/Launchpad S+/src/games/Checkers2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="639" width="193" x="2996" y="7097"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="launchpad_s_plus.DisplayDevices" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/DisplayDevices.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="136" x="3058" y="15214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="midiInDump.MidiCommon" project="Launchpad S+" 
+    file="/Launchpad S+/src/midiInDump/MidiCommon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="266" x="2520" y="881"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="gui.TextScrollGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/TextScrollGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="981" width="174" x="3439" y="4641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="launchpad_s_plus.Colors" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Colors.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="154" x="2584" y="12516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="launchpad_s_plus.Program" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Program.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="123" x="3720" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="launchpad_s_plus.Calculate" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/Calculate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="145" x="2584" y="14419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="59" language="java" name="tech_demo" project="Launchpad S+" file="/Launchpad S+/src/tech_demo" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="4663" y="2792"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="60" language="java" name="gui.JTextFieldLimit" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/JTextFieldLimit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="214" x="1890" y="5662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="launchpad_s_plus.VirtualMIDI" project="Launchpad S+" 
+    file="/Launchpad S+/src/launchpad_s_plus/VirtualMIDI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="150" x="4871" y="12089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="gui.StatisticsGUI" project="Launchpad S+" 
+    file="/Launchpad S+/src/gui/StatisticsGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1863" width="208" x="4274" y="12516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="59"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="67">    
+    <bendpoint x="2983" y="4641"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="68">    
+    <bendpoint x="3261" y="2792"/>    
+    <bendpoint x="3261" y="4641"/>    
+    <bendpoint x="3101" y="5662"/>    
+    <bendpoint x="2902" y="7097"/>    
+    <bendpoint x="2881" y="7776"/>    
+    <bendpoint x="2881" y="8311"/>    
+    <bendpoint x="2902" y="9152"/>    
+    <bendpoint x="3072" y="10011"/>    
+    <bendpoint x="3242" y="11050"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="5304" y="1092"/>    
+    <bendpoint x="5304" y="1182"/>    
+    <bendpoint x="5304" y="1969"/>    
+    <bendpoint x="5304" y="2792"/>    
+    <bendpoint x="5304" y="4641"/>    
+    <bendpoint x="5304" y="5662"/>    
+    <bendpoint x="5304" y="7097"/>    
+    <bendpoint x="5304" y="7776"/>    
+    <bendpoint x="5304" y="8311"/>    
+    <bendpoint x="5304" y="9152"/>    
+    <bendpoint x="5304" y="10011"/>    
+    <bendpoint x="5325" y="11050"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="2174" y="1182"/>    
+    <bendpoint x="2174" y="1969"/>    
+    <bendpoint x="2195" y="2792"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="4963" y="11050"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="3324" y="1092"/>    
+    <bendpoint x="3324" y="1182"/>    
+    <bendpoint x="3324" y="1969"/>    
+    <bendpoint x="3324" y="2792"/>    
+    <bendpoint x="3324" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="3240" y="4641"/>    
+    <bendpoint x="3122" y="5662"/>    
+    <bendpoint x="3261" y="7097"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="2454" y="4641"/>    
+    <bendpoint x="2445" y="5662"/>    
+    <bendpoint x="2435" y="7097"/>    
+    <bendpoint x="2414" y="7776"/>    
+    <bendpoint x="2372" y="8311"/>    
+    <bendpoint x="2351" y="9152"/>    
+    <bendpoint x="2341" y="10011"/>    
+    <bendpoint x="2332" y="11050"/>    
+    <bendpoint x="2332" y="12089"/>    
+    <bendpoint x="2353" y="12516"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="77">    
+    <bendpoint x="3561" y="8311"/>    
+    <bendpoint x="3624" y="7776"/>    
+    <bendpoint x="3540" y="7097"/>    
+    <bendpoint x="3499" y="5662"/>    
+    <bendpoint x="3303" y="4641"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="2433" y="1969"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <generalization id="80">    
+    <bendpoint x="3687" y="7776"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="81">    
+    <bendpoint x="1975" y="7097"/>    
+    <bendpoint x="1975" y="7776"/>    
+    <bendpoint x="1975" y="8311"/>    
+    <bendpoint x="1975" y="9152"/>    
+    <bendpoint x="1975" y="10011"/>    
+    <bendpoint x="1975" y="11050"/>    
+    <bendpoint x="1975" y="12089"/>    
+    <bendpoint x="1975" y="12516"/>    
+    <bendpoint x="1975" y="14419"/>    
+    <bendpoint x="1975" y="14630"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="82">    
+    <bendpoint x="4002" y="9152"/>    
+    <bendpoint x="3904" y="10011"/>    
+    <bendpoint x="3883" y="11050"/>    
+    <bendpoint x="3862" y="12089"/>    
+    <bendpoint x="3820" y="12516"/>    
+    <bendpoint x="3757" y="14419"/>    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="83">    
+    <bendpoint x="4651" y="4641"/>    
+    <bendpoint x="4602" y="5662"/>    
+    <bendpoint x="4560" y="7097"/>    
+    <bendpoint x="4452" y="7776"/>    
+    <bendpoint x="4343" y="8311"/>    
+    <bendpoint x="4238" y="9152"/>    
+    <bendpoint x="3965" y="10011"/>    
+    <bendpoint x="3799" y="11050"/>    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="84">    
+    <bendpoint x="4686" y="5662"/>    
+    <bendpoint x="4644" y="7097"/>    
+    <bendpoint x="4581" y="7776"/>    
+    <bendpoint x="4478" y="8311"/>    
+    <bendpoint x="4343" y="9152"/>    
+    <bendpoint x="4007" y="10011"/>    
+    <bendpoint x="3862" y="11050"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="85">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="86" name="reactionGameWindow"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="88">    
+    <bendpoint x="3604" y="5662"/>    
+    <bendpoint x="3456" y="7097"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <association id="89">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="90" name="checkerBoard"/>      
+      <multiplicity id="91" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <dependency id="95">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="96">    
+    <bendpoint x="1773" y="7097"/>    
+    <bendpoint x="1863" y="7776"/>    
+    <bendpoint x="1954" y="8311"/>    
+    <bendpoint x="2069" y="9152"/>    
+    <bendpoint x="2185" y="10011"/>    
+    <bendpoint x="2185" y="11050"/>    
+    <bendpoint x="2206" y="12089"/>    
+    <bendpoint x="2269" y="12516"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="97">    
+    <bendpoint x="2437" y="12089"/>    
+    <bendpoint x="2437" y="12516"/>    
+    <bendpoint x="2437" y="14419"/>    
+    <bendpoint x="2437" y="14630"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="98">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <nesting id="99">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <dependency id="100">    
+    <bendpoint x="4539" y="7097"/>    
+    <bendpoint x="4602" y="7776"/>    
+    <bendpoint x="4707" y="8311"/>    
+    <bendpoint x="5157" y="9152"/>    
+    <bendpoint x="5241" y="10011"/>    
+    <bendpoint x="5283" y="11050"/>    
+    <bendpoint x="5283" y="12089"/>    
+    <bendpoint x="5283" y="12516"/>    
+    <bendpoint x="5283" y="14419"/>    
+    <bendpoint x="5283" y="14630"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="101">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="102">    
+    <bendpoint x="2456" y="7097"/>    
+    <bendpoint x="2435" y="7776"/>    
+    <bendpoint x="2351" y="8311"/>    
+    <bendpoint x="2269" y="9152"/>    
+    <bendpoint x="2227" y="10011"/>    
+    <bendpoint x="2206" y="11050"/>    
+    <bendpoint x="2185" y="12089"/>    
+    <bendpoint x="2185" y="12516"/>    
+    <bendpoint x="2185" y="14419"/>    
+    <bendpoint x="2185" y="14630"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="103">    
+    <bendpoint x="4728" y="4641"/>    
+    <bendpoint x="4728" y="5662"/>    
+    <bendpoint x="4728" y="7097"/>    
+    <bendpoint x="4728" y="7776"/>    
+    <bendpoint x="4728" y="8311"/>    
+    <bendpoint x="4728" y="9152"/>    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <generalization id="104">    
+    <bendpoint x="1498" y="4641"/>    
+    <bendpoint x="2027" y="2792"/>    
+    <bendpoint x="2195" y="1969"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="105">    
+    <bendpoint x="3345" y="1092"/>    
+    <bendpoint x="3345" y="1182"/>    
+    <bendpoint x="3345" y="1969"/>    
+    <bendpoint x="3361" y="2792"/>    
+    <bendpoint x="3387" y="4641"/>    
+    <bendpoint x="3478" y="5662"/>    
+    <bendpoint x="3435" y="7097"/>    
+    <bendpoint x="3435" y="7776"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="107">    
+    <bendpoint x="3562" y="5662"/>    
+    <bendpoint x="3498" y="7097"/>    
+    <bendpoint x="3456" y="7776"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="108">    
+    <bendpoint x="2393" y="7097"/>    
+    <bendpoint x="2715" y="7776"/>    
+    <bendpoint x="3007" y="8311"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="109">    
+    <bendpoint x="3664" y="1969"/>    
+    <bendpoint x="3664" y="2792"/>    
+    <bendpoint x="3664" y="4641"/>    
+    <bendpoint x="3541" y="5662"/>    
+    <bendpoint x="3519" y="7097"/>    
+    <bendpoint x="3519" y="7776"/>    
+    <bendpoint x="3435" y="8311"/>    
+    <bendpoint x="3391" y="9152"/>    
+    <bendpoint x="3368" y="10011"/>    
+    <bendpoint x="3326" y="11050"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="110">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="112">    
+    <bendpoint x="3305" y="9152"/>    
+    <bendpoint x="3305" y="10011"/>    
+    <bendpoint x="3305" y="11050"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="113">    
+    <bendpoint x="2965" y="9152"/>    
+    <bendpoint x="2965" y="10011"/>    
+    <bendpoint x="2936" y="11050"/>    
+    <bendpoint x="2869" y="12089"/>    
+    <bendpoint x="2827" y="12516"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="115">    
+    <bendpoint x="3729" y="7097"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="116">    
+    <bendpoint x="3095" y="9152"/>    
+    <bendpoint x="3095" y="10011"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="117">    
+    <bendpoint x="3347" y="9152"/>    
+    <bendpoint x="3347" y="10011"/>    
+    <bendpoint x="3347" y="11050"/>    
+    <bendpoint x="3347" y="12089"/>    
+    <bendpoint x="3347" y="12516"/>    
+    <bendpoint x="3347" y="14419"/>    
+    <bendpoint x="3347" y="14630"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="118">    
+    <bendpoint x="4623" y="9152"/>    
+    <bendpoint x="4581" y="8311"/>    
+    <bendpoint x="4518" y="7776"/>    
+    <bendpoint x="4471" y="7097"/>    
+    <bendpoint x="4455" y="5662"/>    
+    <bendpoint x="4206" y="4641"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="119">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="120">    
+    <bendpoint x="3689" y="5662"/>    
+    <bendpoint x="3624" y="7097"/>    
+    <bendpoint x="3561" y="7776"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="121">    
+    <bendpoint x="4462" y="2792"/>    
+    <bendpoint x="4546" y="4641"/>    
+    <bendpoint x="4581" y="5662"/>    
+    <bendpoint x="4581" y="7097"/>    
+    <bendpoint x="4560" y="7776"/>    
+    <bendpoint x="4560" y="8311"/>    
+    <bendpoint x="4560" y="9152"/>    
+    <bendpoint x="4581" y="10011"/>    
+    <bendpoint x="4623" y="11050"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="122">    
+    <bendpoint x="5241" y="2792"/>    
+    <bendpoint x="5241" y="4641"/>    
+    <bendpoint x="5251" y="5662"/>    
+    <bendpoint x="5257" y="7097"/>    
+    <bendpoint x="5262" y="7776"/>    
+    <bendpoint x="5283" y="8311"/>    
+    <bendpoint x="5325" y="9152"/>    
+    <bendpoint x="5346" y="10011"/>    
+    <bendpoint x="5346" y="11050"/>    
+    <bendpoint x="5346" y="12089"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="123">    
+    <bendpoint x="5262" y="1969"/>    
+    <bendpoint x="5262" y="2792"/>    
+    <bendpoint x="5283" y="4641"/>    
+    <bendpoint x="5283" y="5662"/>    
+    <bendpoint x="5283" y="7097"/>    
+    <bendpoint x="5283" y="7776"/>    
+    <bendpoint x="5325" y="8311"/>    
+    <bendpoint x="5367" y="9152"/>    
+    <bendpoint x="5388" y="10011"/>    
+    <bendpoint x="5388" y="11050"/>    
+    <bendpoint x="5388" y="12089"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="124">    
+    <bendpoint x="2153" y="2792"/>    
+    <bendpoint x="2370" y="4641"/>    
+    <bendpoint x="2414" y="5662"/>    
+    <bendpoint x="2414" y="7097"/>    
+    <bendpoint x="2393" y="7776"/>    
+    <bendpoint x="2393" y="8311"/>    
+    <bendpoint x="2393" y="9152"/>    
+    <bendpoint x="2373" y="10011"/>    
+    <bendpoint x="2353" y="11050"/>    
+    <bendpoint x="2353" y="12089"/>    
+    <bendpoint x="2374" y="12516"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="125">    
+    <bendpoint x="4175" y="8311"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="126">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="127">    
+    <bendpoint x="2741" y="7097"/>    
+    <bendpoint x="2944" y="7776"/>    
+    <bendpoint x="3049" y="8311"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="128">    
+    <bendpoint x="2027" y="1092"/>    
+    <bendpoint x="2027" y="1182"/>    
+    <bendpoint x="2027" y="1969"/>    
+    <bendpoint x="2048" y="2792"/>    
+    <bendpoint x="2142" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="129">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="131">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="132">    
+    <bendpoint x="1752" y="7097"/>    
+    <bendpoint x="1752" y="7776"/>    
+    <bendpoint x="1752" y="8311"/>    
+    <bendpoint x="1752" y="9152"/>    
+    <bendpoint x="1752" y="10011"/>    
+    <bendpoint x="1752" y="11050"/>    
+    <bendpoint x="1752" y="12089"/>    
+    <bendpoint x="1752" y="12516"/>    
+    <bendpoint x="1752" y="14419"/>    
+    <bendpoint x="1752" y="14630"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="133">    
+    <bendpoint x="3715" y="9152"/>    
+    <bendpoint x="3715" y="10011"/>    
+    <bendpoint x="3715" y="11050"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="134">    
+    <bendpoint x="2965" y="7097"/>    
+    <bendpoint x="2986" y="7776"/>    
+    <bendpoint x="3028" y="8311"/>    
+    <bendpoint x="3519" y="9152"/>    
+    <bendpoint x="3841" y="10011"/>    
+    <bendpoint x="3967" y="11050"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="135">    
+    <bendpoint x="2475" y="4641"/>    
+    <bendpoint x="2475" y="2792"/>    
+    <bendpoint x="2475" y="1969"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="136">    
+    <bendpoint x="4323" y="7097"/>    
+    <bendpoint x="4301" y="7776"/>    
+    <bendpoint x="4217" y="8311"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="137">    
+    <bendpoint x="4217" y="9152"/>    
+    <bendpoint x="4364" y="10011"/>    
+    <bendpoint x="4665" y="11050"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="138">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="139">    
+    <bendpoint x="3366" y="4641"/>    
+    <bendpoint x="3382" y="2792"/>    
+    <bendpoint x="3387" y="1969"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="140">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="141" name="textScrollWindow"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="143">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="144">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <association id="145">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="146" name="snakeWindow"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="148">    
+    <bendpoint x="5283" y="1092"/>    
+    <bendpoint x="5283" y="1182"/>    
+    <bendpoint x="5283" y="1969"/>    
+    <bendpoint x="5283" y="2792"/>    
+    <bendpoint x="5262" y="4641"/>    
+    <bendpoint x="5230" y="5662"/>    
+    <bendpoint x="5199" y="7097"/>    
+    <bendpoint x="5199" y="7776"/>    
+    <bendpoint x="5199" y="8311"/>    
+    <bendpoint x="5199" y="9152"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="149">    
+    <bendpoint x="3603" y="7097"/>    
+    <bendpoint x="3540" y="7776"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="151">    
+    <bendpoint x="2762" y="7097"/>    
+    <bendpoint x="2673" y="7776"/>    
+    <bendpoint x="2638" y="8311"/>    
+    <bendpoint x="2625" y="9152"/>    
+    <bendpoint x="2596" y="10011"/>    
+    <bendpoint x="2416" y="11050"/>    
+    <bendpoint x="2416" y="12089"/>    
+    <bendpoint x="2458" y="12516"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <generalization id="152">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="153">    
+    <bendpoint x="5115" y="5662"/>    
+    <bendpoint x="5168" y="7097"/>    
+    <bendpoint x="5220" y="7776"/>    
+    <bendpoint x="5241" y="8311"/>    
+    <bendpoint x="5262" y="9152"/>    
+    <bendpoint x="5283" y="10011"/>    
+    <bendpoint x="5304" y="11050"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="154">    
+    <bendpoint x="4775" y="4641"/>    
+    <bendpoint x="4775" y="5662"/>    
+    <bendpoint x="4966" y="7097"/>    
+    <bendpoint x="5157" y="7776"/>    
+    <bendpoint x="5178" y="8311"/>    
+    <bendpoint x="5220" y="9152"/>    
+    <bendpoint x="5220" y="10011"/>    
+    <bendpoint x="5241" y="11050"/>    
+    <bendpoint x="5051" y="12089"/>    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="155">    
+    <bendpoint x="2944" y="8311"/>    
+    <bendpoint x="2881" y="9152"/>    
+    <bendpoint x="2860" y="10011"/>    
+    <bendpoint x="2831" y="11050"/>    
+    <bendpoint x="2848" y="12089"/>    
+    <bendpoint x="2848" y="12516"/>    
+    <bendpoint x="2848" y="14419"/>    
+    <bendpoint x="2848" y="14630"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="156">    
+    <bendpoint x="1456" y="1092"/>    
+    <bendpoint x="1456" y="1182"/>    
+    <bendpoint x="1477" y="1969"/>    
+    <bendpoint x="1628" y="2792"/>    
+    <bendpoint x="1778" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="157">    
+    <bendpoint x="4227" y="4641"/>    
+    <bendpoint x="4476" y="5662"/>    
+    <bendpoint x="4492" y="7097"/>    
+    <bendpoint x="4539" y="7776"/>    
+    <bendpoint x="4602" y="8311"/>    
+    <bendpoint x="4665" y="9152"/>    
+    <bendpoint x="4989" y="10011"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="158" name="pianoWindow"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="160">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="161">    
+    <bendpoint x="4133" y="8311"/>    
+    <bendpoint x="3997" y="7776"/>    
+    <bendpoint x="3984" y="7097"/>    
+    <bendpoint x="3984" y="5662"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <dependency id="162">    
+    <bendpoint x="2881" y="7097"/>    
+    <bendpoint x="2770" y="7776"/>    
+    <bendpoint x="2659" y="8311"/>    
+    <bendpoint x="2529" y="9152"/>    
+    <bendpoint x="2400" y="10011"/>    
+    <bendpoint x="2290" y="11050"/>    
+    <bendpoint x="2248" y="12089"/>    
+    <bendpoint x="2248" y="12516"/>    
+    <bendpoint x="2248" y="14419"/>    
+    <bendpoint x="2248" y="14630"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="163">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="164">    
+    <bendpoint x="2351" y="7097"/>    
+    <bendpoint x="2694" y="7776"/>    
+    <bendpoint x="2986" y="8311"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="165">    
+    <bendpoint x="2412" y="4641"/>    
+    <bendpoint x="2393" y="5662"/>    
+    <bendpoint x="2330" y="7097"/>    
+    <bendpoint x="2284" y="7776"/>    
+    <bendpoint x="2248" y="8311"/>    
+    <bendpoint x="2248" y="9152"/>    
+    <bendpoint x="2248" y="10011"/>    
+    <bendpoint x="2227" y="11050"/>    
+    <bendpoint x="2227" y="12089"/>    
+    <bendpoint x="2227" y="12516"/>    
+    <bendpoint x="2227" y="14419"/>    
+    <bendpoint x="2227" y="14630"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="166">    
+    <bendpoint x="4588" y="1969"/>    
+    <bendpoint x="4588" y="2792"/>    
+    <bendpoint x="4588" y="4641"/>    
+    <bendpoint x="4560" y="5662"/>    
+    <bendpoint x="4513" y="7097"/>    
+    <bendpoint x="4406" y="7776"/>    
+    <bendpoint x="4280" y="8311"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="167">    
+    <bendpoint x="4539" y="5662"/>    
+    <bendpoint x="4602" y="7097"/>    
+    <bendpoint x="4644" y="7776"/>    
+    <bendpoint x="4671" y="8311"/>    
+    <bendpoint x="4686" y="9152"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="168">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="169" name="checkersWindow"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <bendpoint x="3668" y="5662"/>    
+    <bendpoint x="3750" y="7097"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="172" name="scr"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="175" name="game"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="177">    
+    <bendpoint x="3778" y="14630"/>    
+    <bendpoint x="3778" y="14419"/>    
+    <bendpoint x="3778" y="12516"/>    
+    <bendpoint x="3778" y="12089"/>    
+    <bendpoint x="3778" y="11050"/>    
+    <bendpoint x="3757" y="10011"/>    
+    <bendpoint x="3736" y="9152"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="178" name="setup"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="180">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="181">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="182">    
+    <bendpoint x="4030" y="12089"/>    
+    <bendpoint x="4030" y="12516"/>    
+    <bendpoint x="4030" y="14419"/>    
+    <bendpoint x="4030" y="14630"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="183">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="184">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="185">    
+    <bendpoint x="3820" y="10011"/>    
+    <bendpoint x="3820" y="11050"/>    
+    <bendpoint x="3799" y="12089"/>    
+    <bendpoint x="3799" y="12516"/>    
+    <bendpoint x="3799" y="14419"/>    
+    <bendpoint x="3799" y="14630"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="186">    
+    <bendpoint x="1788" y="1182"/>    
+    <bendpoint x="1788" y="1969"/>    
+    <bendpoint x="1788" y="2792"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="187">    
+    <bendpoint x="4861" y="1092"/>    
+    <bendpoint x="4861" y="1182"/>    
+    <bendpoint x="4861" y="1969"/>    
+    <bendpoint x="4861" y="2792"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="188">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="189">    
+    <bendpoint x="4796" y="5662"/>    
+    <bendpoint x="4781" y="7097"/>    
+    <bendpoint x="4765" y="7776"/>    
+    <bendpoint x="4749" y="8311"/>    
+    <bendpoint x="4707" y="9152"/>    
+    <bendpoint x="4686" y="10011"/>    
+    <bendpoint x="4686" y="11050"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="190">    
+    <bendpoint x="4834" y="1092"/>    
+    <bendpoint x="4834" y="1182"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="191">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="193">    
+    <bendpoint x="3408" y="4641"/>    
+    <bendpoint x="3583" y="5662"/>    
+    <bendpoint x="3708" y="7097"/>    
+    <bendpoint x="4039" y="7776"/>    
+    <bendpoint x="4259" y="8311"/>    
+    <bendpoint x="4259" y="9152"/>    
+    <bendpoint x="4343" y="10011"/>    
+    <bendpoint x="4581" y="11050"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="194">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="195" name="mtr"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="197">    
+    <bendpoint x="2079" y="4641"/>    
+    <bendpoint x="2090" y="2792"/>    
+    <bendpoint x="2216" y="1969"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="198">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="199">    
+    <bendpoint x="3477" y="7097"/>    
+    <bendpoint x="3582" y="7776"/>    
+    <bendpoint x="3540" y="8311"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="200">    
+    <bendpoint x="4196" y="8311"/>    
+    <bendpoint x="4023" y="9152"/>    
+    <bendpoint x="3799" y="10011"/>    
+    <bendpoint x="3757" y="11050"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="201">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <dependency id="202">    
+    <bendpoint x="4609" y="1969"/>    
+    <bendpoint x="4630" y="2792"/>    
+    <bendpoint x="4630" y="4641"/>    
+    <bendpoint x="4623" y="5662"/>    
+    <bendpoint x="4623" y="7097"/>    
+    <bendpoint x="4623" y="7776"/>    
+    <bendpoint x="4623" y="8311"/>    
+    <bendpoint x="4602" y="9152"/>    
+    <bendpoint x="4602" y="10011"/>    
+    <bendpoint x="4602" y="11050"/>    
+    <bendpoint x="4541" y="12089"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="203">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="204">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="205">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="206" name="reactiveDemoWindow"/>      
+      <multiplicity id="207" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="208">    
+    <bendpoint x="3477" y="9152"/>    
+    <bendpoint x="3736" y="10011"/>    
+    <bendpoint x="3841" y="11050"/>    
+    <bendpoint x="3883" y="12089"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="209">    
+    <bendpoint x="1799" y="4641"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="210">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="211">    
+    <bendpoint x="1477" y="1182"/>    
+    <bendpoint x="1456" y="1969"/>    
+    <bendpoint x="1414" y="2792"/>    
+    <bendpoint x="1372" y="4641"/>    
+    <bendpoint x="1398" y="5662"/>    
+    <bendpoint x="1794" y="7097"/>    
+    <bendpoint x="2095" y="7776"/>    
+    <bendpoint x="2311" y="8311"/>    
+    <bendpoint x="2439" y="9152"/>    
+    <bendpoint x="2575" y="10011"/>    
+    <bendpoint x="2789" y="11050"/>    
+    <bendpoint x="2911" y="12089"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="212">    
+    <bendpoint x="4281" y="7097"/>    
+    <bendpoint x="4018" y="7776"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="213">    
+    <bendpoint x="1498" y="1182"/>    
+    <bendpoint x="1498" y="1969"/>    
+    <bendpoint x="1456" y="2792"/>    
+    <bendpoint x="1414" y="4641"/>    
+    <bendpoint x="1639" y="5662"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <generalization id="214">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <dependency id="215">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="216">    
+    <bendpoint x="3067" y="12516"/>    
+    <bendpoint x="3067" y="14419"/>    
+    <bendpoint x="3067" y="14630"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="217">    
+    <bendpoint x="3771" y="7097"/>    
+    <bendpoint x="3729" y="7776"/>    
+    <bendpoint x="3519" y="8311"/>    
+    <bendpoint x="3412" y="9152"/>    
+    <bendpoint x="3284" y="10011"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="218">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <association id="219">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="220" name="game"/>      
+      <multiplicity id="221" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="222">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="223">    
+    <bendpoint x="2827" y="14630"/>    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="224">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="225">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="226" name="game"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="228">    
+    <bendpoint x="3540" y="9152"/>    
+    <bendpoint x="3540" y="10011"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="229">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="230">    
+    <bendpoint x="3687" y="7097"/>    
+    <bendpoint x="3603" y="7776"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="231">    
+    <bendpoint x="4441" y="2792"/>    
+    <bendpoint x="4504" y="4641"/>    
+    <bendpoint x="4497" y="5662"/>    
+    <bendpoint x="4406" y="7097"/>    
+    <bendpoint x="4343" y="7776"/>    
+    <bendpoint x="4238" y="8311"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="232">    
+    <bendpoint x="2309" y="7097"/>    
+    <bendpoint x="2305" y="7776"/>    
+    <bendpoint x="2290" y="8311"/>    
+    <bendpoint x="2290" y="9152"/>    
+    <bendpoint x="2290" y="10011"/>    
+    <bendpoint x="2269" y="11050"/>    
+    <bendpoint x="2290" y="12089"/>    
+    <bendpoint x="2332" y="12516"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="233">    
+    <bendpoint x="4546" y="2792"/>    
+    <bendpoint x="4269" y="4641"/>    
+    <bendpoint x="3647" y="5662"/>    
+    <bendpoint x="3561" y="7097"/>    
+    <bendpoint x="3498" y="7776"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="234">    
+    <bendpoint x="3666" y="7097"/>    
+    <bendpoint x="3708" y="7776"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="235">    
+    <bendpoint x="2288" y="7097"/>    
+    <bendpoint x="2246" y="7776"/>    
+    <bendpoint x="2205" y="8311"/>    
+    <bendpoint x="2164" y="9152"/>    
+    <bendpoint x="2164" y="10011"/>    
+    <bendpoint x="2164" y="11050"/>    
+    <bendpoint x="2164" y="12089"/>    
+    <bendpoint x="2164" y="12516"/>    
+    <bendpoint x="2164" y="14419"/>    
+    <bendpoint x="2164" y="14630"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="236">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="237">    
+    <bendpoint x="4302" y="7097"/>    
+    <bendpoint x="4385" y="7776"/>    
+    <bendpoint x="4385" y="8311"/>    
+    <bendpoint x="4385" y="9152"/>    
+    <bendpoint x="4385" y="10011"/>    
+    <bendpoint x="4304" y="11050"/>    
+    <bendpoint x="4304" y="12089"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="238">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="239">    
+    <bendpoint x="3414" y="7097"/>    
+    <bendpoint x="3477" y="7776"/>    
+    <bendpoint x="3477" y="8311"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="240">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="241">    
+    <bendpoint x="2048" y="1182"/>    
+    <bendpoint x="2006" y="1969"/>    
+    <bendpoint x="2006" y="2792"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="242">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="243">    
+    <bendpoint x="1954" y="7097"/>    
+    <bendpoint x="2074" y="7776"/>    
+    <bendpoint x="2269" y="8311"/>    
+    <bendpoint x="2372" y="9152"/>    
+    <bendpoint x="2554" y="10011"/>    
+    <bendpoint x="2810" y="11050"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="244">    
+    <bendpoint x="4049" y="9152"/>    
+    <bendpoint x="4049" y="10011"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="245">    
+    <bendpoint x="2944" y="7097"/>    
+    <bendpoint x="3414" y="7776"/>    
+    <bendpoint x="3456" y="8311"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="246">    
+    <bendpoint x="4630" y="1092"/>    
+    <bendpoint x="4630" y="1182"/>    
+    <bendpoint x="4630" y="1969"/>    
+    <bendpoint x="4609" y="2792"/>    
+    <bendpoint x="4567" y="4641"/>    
+    <bendpoint x="4518" y="5662"/>    
+    <bendpoint x="4385" y="7097"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="247">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="248">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="249">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="250">    
+    <bendpoint x="3643" y="4641"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="251">    
+    <bendpoint x="2860" y="7097"/>    
+    <bendpoint x="2860" y="7776"/>    
+    <bendpoint x="2860" y="8311"/>    
+    <bendpoint x="2860" y="9152"/>    
+    <bendpoint x="2923" y="10011"/>    
+    <bendpoint x="2978" y="11050"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="252">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="253">    
+    <bendpoint x="4693" y="1092"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="254">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="255" name="game"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="257">    
+    <bendpoint x="2890" y="12089"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="258">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="259">    
+    <bendpoint x="3988" y="11050"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="260">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="261">    
+    <bendpoint x="2932" y="12089"/>    
+    <bendpoint x="2932" y="12516"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="262">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="263">    
+    <bendpoint x="2391" y="4641"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="264">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="265">    
+    <bendpoint x="4322" y="7776"/>    
+    <bendpoint x="4322" y="8311"/>    
+    <bendpoint x="4322" y="9152"/>    
+    <bendpoint x="4303" y="10011"/>    
+    <bendpoint x="4283" y="11050"/>    
+    <bendpoint x="4283" y="12089"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="266">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="267">    
+    <bendpoint x="2923" y="9152"/>    
+    <bendpoint x="2881" y="10011"/>    
+    <bendpoint x="2852" y="11050"/>    
+    <bendpoint x="2827" y="12089"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="268">    
+    <bendpoint x="5136" y="2792"/>    
+    <bendpoint x="5136" y="4641"/>    
+    <bendpoint x="5136" y="5662"/>    
+    <bendpoint x="5136" y="7097"/>    
+    <bendpoint x="5136" y="7776"/>    
+    <bendpoint x="5136" y="8311"/>    
+    <bendpoint x="5136" y="9152"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="269">    
+    <bendpoint x="2454" y="1182"/>    
+    <bendpoint x="2454" y="1969"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="270">    
+    <bendpoint x="3240" y="7097"/>    
+    <bendpoint x="2965" y="7776"/>    
+    <bendpoint x="2923" y="8311"/>    
+    <bendpoint x="2944" y="9152"/>    
+    <bendpoint x="3116" y="10011"/>    
+    <bendpoint x="3284" y="11050"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="271">    
+    <bendpoint x="3457" y="5662"/>    
+    <bendpoint x="3219" y="7097"/>    
+    <bendpoint x="2902" y="7776"/>    
+    <bendpoint x="2818" y="8311"/>    
+    <bendpoint x="2750" y="9152"/>    
+    <bendpoint x="2747" y="10011"/>    
+    <bendpoint x="2747" y="11050"/>    
+    <bendpoint x="2747" y="12089"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <generalization id="272">    
+    <bendpoint x="1456" y="4641"/>    
+    <bendpoint x="1809" y="2792"/>    
+    <bendpoint x="2153" y="1969"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="273">    
+    <bendpoint x="2496" y="4641"/>    
+    <bendpoint x="2477" y="5662"/>    
+    <bendpoint x="2477" y="7097"/>    
+    <bendpoint x="2477" y="7776"/>    
+    <bendpoint x="2477" y="8311"/>    
+    <bendpoint x="2460" y="9152"/>    
+    <bendpoint x="2442" y="10011"/>    
+    <bendpoint x="2395" y="11050"/>    
+    <bendpoint x="2458" y="12089"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="274">    
+    <bendpoint x="4005" y="7097"/>    
+    <bendpoint x="4280" y="7776"/>    
+    <bendpoint x="4301" y="8311"/>    
+    <bendpoint x="4280" y="9152"/>    
+    <bendpoint x="4144" y="10011"/>    
+    <bendpoint x="4009" y="11050"/>    
+    <bendpoint x="4009" y="12089"/>    
+    <bendpoint x="4009" y="12516"/>    
+    <bendpoint x="4009" y="14419"/>    
+    <bendpoint x="4009" y="14630"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="275">    
+    <bendpoint x="2121" y="4641"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <association id="276">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="277" name="animationWindow"/>      
+      <multiplicity id="278" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="279">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="280" name="lightsOutWindow"/>      
+      <multiplicity id="281" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="282">    
+    <bendpoint x="3219" y="4641"/>    
+    <bendpoint x="3293" y="2792"/>    
+    <bendpoint x="3366" y="1969"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="283">    
+    <bendpoint x="3694" y="11050"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="284">    
+    <bendpoint x="3234" y="1092"/>    
+    <bendpoint x="3234" y="1182"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <generalization id="285">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="286">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="287">    
+    <bendpoint x="2069" y="1182"/>    
+    <bendpoint x="2069" y="1969"/>    
+    <bendpoint x="2069" y="2792"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="288">    
+    <bendpoint x="4672" y="4641"/>    
+    <bendpoint x="4665" y="5662"/>    
+    <bendpoint x="4665" y="7097"/>    
+    <bendpoint x="4665" y="7776"/>    
+    <bendpoint x="4650" y="8311"/>    
+    <bendpoint x="4644" y="9152"/>    
+    <bendpoint x="4644" y="10011"/>    
+    <bendpoint x="4644" y="11050"/>    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="289">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="290">    
+    <bendpoint x="2962" y="4641"/>    
+    <bendpoint x="2839" y="5662"/>    
+    <bendpoint x="2839" y="7097"/>    
+    <bendpoint x="2839" y="7776"/>    
+    <bendpoint x="2839" y="8311"/>    
+    <bendpoint x="2839" y="9152"/>    
+    <bendpoint x="2902" y="10011"/>    
+    <bendpoint x="2957" y="11050"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="291">    
+    <bendpoint x="2267" y="7097"/>    
+    <bendpoint x="2351" y="7776"/>    
+    <bendpoint x="2456" y="8311"/>    
+    <bendpoint x="2604" y="9152"/>    
+    <bendpoint x="2768" y="10011"/>    
+    <bendpoint x="2873" y="11050"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="292">    
+    <bendpoint x="3198" y="4641"/>    
+    <bendpoint x="3080" y="5662"/>    
+    <bendpoint x="2923" y="7097"/>    
+    <bendpoint x="2923" y="7776"/>    
+    <bendpoint x="2965" y="8311"/>    
+    <bendpoint x="3203" y="9152"/>    
+    <bendpoint x="3441" y="10011"/>    
+    <bendpoint x="3736" y="11050"/>    
+    <bendpoint x="3820" y="12089"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="293">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="294">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="295">    
+    <bendpoint x="2902" y="8311"/>    
+    <bendpoint x="2818" y="9152"/>    
+    <bendpoint x="2789" y="10011"/>    
+    <bendpoint x="2768" y="11050"/>    
+    <bendpoint x="2768" y="12089"/>    
+    <bendpoint x="2768" y="12516"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="296">    
+    <bendpoint x="4427" y="7097"/>    
+    <bendpoint x="4427" y="7776"/>    
+    <bendpoint x="4364" y="8311"/>    
+    <bendpoint x="4301" y="9152"/>    
+    <bendpoint x="4028" y="10011"/>    
+    <bendpoint x="3904" y="11050"/>    
+    <bendpoint x="3841" y="12089"/>    
+    <bendpoint x="3757" y="12516"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="297">    
+    <bendpoint x="2189" y="1092"/>    
+    <bendpoint x="2153" y="1182"/>    
+    <bendpoint x="2111" y="1969"/>    
+    <bendpoint x="2111" y="2792"/>    
+    <bendpoint x="2433" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="298">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="299" name="game"/>      
+      <multiplicity id="300" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="301">    
+    <bendpoint x="1996" y="7097"/>    
+    <bendpoint x="2053" y="7776"/>    
+    <bendpoint x="2119" y="8311"/>    
+    <bendpoint x="2185" y="9152"/>    
+    <bendpoint x="2206" y="10011"/>    
+    <bendpoint x="2248" y="11050"/>    
+    <bendpoint x="2269" y="12089"/>    
+    <bendpoint x="2311" y="12516"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="302">    
+    <bendpoint x="4504" y="2792"/>    
+    <bendpoint x="4609" y="4641"/>    
+    <bendpoint x="4644" y="5662"/>    
+    <bendpoint x="4707" y="7097"/>    
+    <bendpoint x="4932" y="7776"/>    
+    <bendpoint x="5157" y="8311"/>    
+    <bendpoint x="5241" y="9152"/>    
+    <bendpoint x="5325" y="10011"/>    
+    <bendpoint x="5367" y="11050"/>    
+    <bendpoint x="5367" y="12089"/>    
+    <bendpoint x="5367" y="12516"/>    
+    <bendpoint x="5367" y="14419"/>    
+    <bendpoint x="5367" y="14630"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="303">    
+    <bendpoint x="4154" y="8311"/>    
+    <bendpoint x="4070" y="9152"/>    
+    <bendpoint x="3986" y="10011"/>    
+    <bendpoint x="3946" y="11050"/>    
+    <bendpoint x="3904" y="12089"/>    
+    <bendpoint x="3904" y="12516"/>    
+    <bendpoint x="3904" y="14419"/>    
+    <bendpoint x="3904" y="14630"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="304">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="305">    
+    <bendpoint x="4707" y="11050"/>    
+    <bendpoint x="4770" y="12089"/>    
+    <bendpoint x="4770" y="12516"/>    
+    <bendpoint x="4770" y="14419"/>    
+    <bendpoint x="4770" y="14630"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <generalization id="306">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="307">    
+    <bendpoint x="3925" y="10011"/>    
+    <bendpoint x="3925" y="11050"/>    
+    <bendpoint x="3925" y="12089"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="308">    
+    <bendpoint x="2517" y="4641"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <generalization id="309">    
+    <bendpoint x="4581" y="9152"/>    
+    <bendpoint x="4457" y="8311"/>    
+    <bendpoint x="4364" y="7776"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="310">    
+    <bendpoint x="4651" y="1969"/>    
+    <bendpoint x="4794" y="2792"/>    
+    <bendpoint x="4976" y="4641"/>    
+    <bendpoint x="5157" y="5662"/>    
+    <bendpoint x="5220" y="7097"/>    
+    <bendpoint x="5241" y="7776"/>    
+    <bendpoint x="5262" y="8311"/>    
+    <bendpoint x="5346" y="9152"/>    
+    <bendpoint x="5367" y="10011"/>    
+    <bendpoint x="5409" y="11050"/>    
+    <bendpoint x="5409" y="12089"/>    
+    <bendpoint x="5409" y="12516"/>    
+    <bendpoint x="5409" y="14419"/>    
+    <bendpoint x="5409" y="14630"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="311">    
+    <bendpoint x="3645" y="7097"/>    
+    <bendpoint x="3645" y="7776"/>    
+    <bendpoint x="3498" y="8311"/>    
+    <bendpoint x="3498" y="9152"/>    
+    <bendpoint x="3462" y="10011"/>    
+    <bendpoint x="3368" y="11050"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="312">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="313">    
+    <bendpoint x="4672" y="1092"/>    
+    <bendpoint x="4672" y="1182"/>    
+    <bendpoint x="4672" y="1969"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="59"/>  
+  </dependency>  
+  <dependency id="314">    
+    <bendpoint x="2132" y="1182"/>    
+    <bendpoint x="2132" y="1969"/>    
+    <bendpoint x="2174" y="2792"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="315">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="316">    
+    <bendpoint x="3345" y="4641"/>    
+    <bendpoint x="3520" y="5662"/>    
+    <bendpoint x="3582" y="7097"/>    
+    <bendpoint x="3666" y="7776"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <association id="317">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="318" name="game"/>      
+      <multiplicity id="319" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="320">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="321" name="gameOfLifeWindow"/>      
+      <multiplicity id="322" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="323">    
+    <bendpoint x="5262" y="11050"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <dependency id="324">    
+    <bendpoint x="2132" y="2792"/>    
+    <bendpoint x="2100" y="4641"/>    
+    <bendpoint x="2134" y="5662"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="325">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="326">    
+    <bendpoint x="4525" y="1092"/>    
+    <bendpoint x="4525" y="1182"/>    
+    <bendpoint x="4525" y="1969"/>    
+    <bendpoint x="4525" y="2792"/>    
+    <bendpoint x="4525" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="327">    
+    <bendpoint x="3282" y="4641"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="328">    
+    <bendpoint x="1435" y="1092"/>    
+    <bendpoint x="1435" y="1182"/>    
+    <bendpoint x="1435" y="1969"/>    
+    <bendpoint x="1435" y="2792"/>    
+    <bendpoint x="1435" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="329">    
+    <bendpoint x="1351" y="1092"/>    
+    <bendpoint x="1351" y="1182"/>    
+    <bendpoint x="1351" y="1969"/>    
+    <bendpoint x="1351" y="2792"/>    
+    <bendpoint x="1351" y="4641"/>    
+    <bendpoint x="1377" y="5662"/>    
+    <bendpoint x="1583" y="7097"/>    
+    <bendpoint x="1790" y="7776"/>    
+    <bendpoint x="1998" y="8311"/>    
+    <bendpoint x="2206" y="9152"/>    
+    <bendpoint x="2269" y="10011"/>    
+    <bendpoint x="2311" y="11050"/>    
+    <bendpoint x="2374" y="12089"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="330">    
+    <bendpoint x="4815" y="2792"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="331">    
+    <bendpoint x="2048" y="1969"/>    
+    <bendpoint x="1762" y="2792"/>    
+    <bendpoint x="1477" y="4641"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="332">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="333">    
+    <bendpoint x="4248" y="4641"/>    
+    <bendpoint x="4483" y="2792"/>    
+    <bendpoint x="4483" y="1969"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="334">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="335">    
+    <bendpoint x="2646" y="7097"/>    
+    <bendpoint x="2590" y="7776"/>    
+    <bendpoint x="2535" y="8311"/>    
+    <bendpoint x="2481" y="9152"/>    
+    <bendpoint x="2421" y="10011"/>    
+    <bendpoint x="2374" y="11050"/>    
+    <bendpoint x="2311" y="12089"/>    
+    <bendpoint x="2290" y="12516"/>    
+    <bendpoint x="2290" y="14419"/>    
+    <bendpoint x="2290" y="14630"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="336">    
+    <bendpoint x="2625" y="7097"/>    
+    <bendpoint x="2652" y="7776"/>    
+    <bendpoint x="2711" y="8311"/>    
+    <bendpoint x="2771" y="9152"/>    
+    <bendpoint x="2839" y="10011"/>    
+    <bendpoint x="2915" y="11050"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="337">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="338">    
+    <bendpoint x="1393" y="1092"/>    
+    <bendpoint x="1393" y="1182"/>    
+    <bendpoint x="1393" y="1969"/>    
+    <bendpoint x="1393" y="2792"/>    
+    <bendpoint x="1393" y="4641"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="339">    
+    <bendpoint x="2372" y="7097"/>    
+    <bendpoint x="2456" y="7776"/>    
+    <bendpoint x="2591" y="8311"/>    
+    <bendpoint x="2701" y="9152"/>    
+    <bendpoint x="2810" y="10011"/>    
+    <bendpoint x="2894" y="11050"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="340">    
+    <bendpoint x="2372" y="7776"/>    
+    <bendpoint x="2570" y="8311"/>    
+    <bendpoint x="2792" y="9152"/>    
+    <bendpoint x="2944" y="10011"/>    
+    <bendpoint x="3263" y="11050"/>    
+    <bendpoint x="3368" y="12089"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

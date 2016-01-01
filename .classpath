@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="src" path="resources" />
+	<classpathentry exported="true" kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry exported="true" kind="lib" path="forms-1.3.0.jar"
+		sourcepath="forms-1.3.0-src.zip" />
+	<classpathentry exported="true" kind="lib"
+		path="miglayout15-swing.jar" sourcepath="miglayout-src.zip" />
+	<classpathentry exported="true" kind="lib"
+		path="C:/Programming/UCanAccess-2.0.9.4-bin/ucanaccess-2.0.9.4.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="C:/Programming/UCanAccess-2.0.9.4-bin/lib/commons-lang-2.6.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="C:/Programming/UCanAccess-2.0.9.4-bin/lib/commons-logging-1.1.1.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="C:/Programming/UCanAccess-2.0.9.4-bin/lib/hsqldb.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="C:/Programming/UCanAccess-2.0.9.4-bin/lib/jackcess-2.0.8.jar" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
