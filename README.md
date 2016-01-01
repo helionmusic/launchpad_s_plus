@@ -5,15 +5,11 @@
 Novation Launchpad S Java programming API and demo program
 
 
-Warning: I am completely new to githun and open sourcing and everything. If I am doing ANYTHING wrong, please let me know. I would be more than happy to fix.
-
+Warning: I am completely new to github and open sourcing and everything. If I am doing ANYTHING wrong, please let me know. I would be more than happy to fix.
 
 Another warning: This was my first ever real Java project, done during a semester in the context of a Java course. The source code might not be the best but it gets the job done. And I am absolutely terrible with working on GUI.
-
 Project requirements set for the project during the course included setting up a Microsoft Access database to use within the program.
-
 This means all the statistics and game scores within the program are saved in a Microsoft Access file (I don't like it either).
-
 I will definitely update the code to be much more efficient in the near future once I free up some more time.
 
 
@@ -21,10 +17,11 @@ I would love to get my hands on a Launchpad MK2 and make this work with RGB colo
 
 
 Note: This program should be more or less compatible with the original Launchpad, with the exception of the colors being completely off.
-
 Since I do not own an original Launchpad, I have not been able to test it.
-
 For this reason, I have made the program ignore anything other than a Launchpad S.
+
+
+The API itself is entirely in the launchpad_s_plus package in the src folder. Take a look at that to see the source code for the API. Otherwise if you simply want to see how to use it, take a look at any of the Games or Tech Demos, or my personal favorite Piano.
 
 
 Now onto a little preview:
