@@ -4,7 +4,11 @@
 
 Novation Launchpad S Java programming API and demo program
 
-Only warning: This was my first ever real Java project, done during a semester in the context of a Java course. The source code might not be the best but it gets the job done. And I am absolutely terrible with working on GUI.
+
+Warning: I am completely new to githun and open sourcing and everything. If I am doing ANYTHING wrong, please let me know. I would be more than happy to fix.
+
+
+Another warning: This was my first ever real Java project, done during a semester in the context of a Java course. The source code might not be the best but it gets the job done. And I am absolutely terrible with working on GUI.
 
 Project requirements set for the project during the course included setting up a Microsoft Access database to use within the program.
 
