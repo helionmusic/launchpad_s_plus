@@ -24,6 +24,10 @@ For this reason, I have made the program ignore anything other than a Launchpad 
 The API itself is entirely in the launchpad_s_plus package in the src folder. Take a look at that to see the source code for the API. Otherwise if you simply want to see how to use it, take a look at any of the Games or Tech Demos, or my personal favorite Piano.
 
 
+If you do not wish to compile the program yourself and just want to run it, I have added a runnable .jar and a wrapped .exe version of it in the 'compiled' folder, alone with an empty required database file that will track statistics and game results. 
+Just keep in mind that you WILL need to have JRE installed to be able to run it. You can get that from http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+
 Now onto a little preview:
 
 Compiling and running the program, you will be met with a main window as follows, containing the various demos I've set up to demonstrate what was possible with the API, in the short time period I've had during the course.
