@@ -1,6 +1,6 @@
 # Launchpad S+
 
-![Launchpad S+ icon gif](http://helionmusic.com/extras/launchpad_s_plus/logo.gif)
+![Launchpad S+ icon gif](./images/logo.gif)
 
 Novation Launchpad S Java programming API and demo program
 
@@ -31,7 +31,7 @@ Just keep in mind that you WILL need to have JRE installed to be able to run it.
 Now onto a little preview:
 
 Compiling and running the program, you will be met with a main window as follows, containing the various demos I've set up to demonstrate what was possible with the API, in the short time period I've had during the course.
-![Launchpad S+ main window and statistics window](http://helionmusic.com/extras/launchpad_s_plus/preview.png)
+![Launchpad S+ main window and statistics window](./images/preview.png)
 The picture also shows a preview of the statistics window that will be able to show what has been used since the program was first run and during the current program session.
 This information is all stored within the Microsoft Access database file, so resetting that will reset the statistics.
 Statistics are accessible from the ? toolbar button
